@@ -1,7 +1,7 @@
 def multip(a):
     x=[1,2,3,4,5,6,7,8,9]
     return [i*a for i in x]
-# 구구단을 출력해야 함(-2)
+
     
 def numchecker(a):
     if a%2==0:

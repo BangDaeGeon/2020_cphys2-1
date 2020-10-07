@@ -5,7 +5,7 @@ def MulTable(n):
     return result
 for i in range(1,10):
     print(MulTable(i))
-# 구구단을 출력해야함(-2)
+
 
 def is_odd(n):
     if n % 2 == 0:

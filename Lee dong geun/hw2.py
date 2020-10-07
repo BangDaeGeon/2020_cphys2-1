@@ -4,7 +4,7 @@ while True:
     i += 1
     if i > 9: break
     print(int(input1)*i)
-# 구구단을 출력하는 것이 과제(-2)
+
     
 def 홀짝판별(number):
     if number%2 == 1:

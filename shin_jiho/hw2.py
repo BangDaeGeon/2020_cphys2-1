@@ -4,7 +4,7 @@ print('-'*50)
 print('(',value,'단',')')
 for i in range(1,10):
 	print(int(value)*i)
-# 구구단을 출력해야 하며 함수 형태로 작성되야 하는 것이 과제였음(-2)
+# 함수 형태로 작성되야 하는 것이 과제였음(-1)
     
 num = input()
 

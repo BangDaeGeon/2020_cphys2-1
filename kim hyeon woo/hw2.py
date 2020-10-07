@@ -1,7 +1,7 @@
 def mul1(a):
     x=[1,2,3,4,5,6,7,8,9]
     return [i*a for i in x]
-# 구구단을 출력해야함(-2)
+
     
 def solution(num):
     if num%2 == 0:

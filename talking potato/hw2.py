@@ -1,8 +1,7 @@
 def mul(a):
     for j in range(9):
             print(a*(j+1))
-# 구구단을 출력해야함(-2)
-            
+
 def check(a):
     if a%2==1:
         print ("odd")

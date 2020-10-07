@@ -2,7 +2,6 @@ import numpy as np
 def googoodan(a):
     x=[1,2,3,4,5,6,7,8,9]
     return [i*a for i in x]
-# 구구단이 출력되야함(-2)
     
 x=int(input("정수 x="))
 

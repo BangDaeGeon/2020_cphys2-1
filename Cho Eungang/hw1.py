@@ -9,4 +9,3 @@ def gugudan(a):
         x=x+dan(f)
     return x
 print(gugudan(9))
-# 구구단을 출력해야 함(-2)

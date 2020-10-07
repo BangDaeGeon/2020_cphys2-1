@@ -3,7 +3,7 @@ def mul2(a):
     return [i*a for i in x]
 
 mul2(4)
-# 구구단을 출력해야함(-2)
+
 
 def avg(a):
     i= 0

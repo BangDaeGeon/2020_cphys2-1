@@ -2,7 +2,7 @@ def dan(a):
     x=[1,2,3,4,5,6,7,8,9]
     return [i*a for i in x]
 dan(3)
-# 구구단을 출력해야 함(-2)
+
     
 def hol(a):
     b=a%2

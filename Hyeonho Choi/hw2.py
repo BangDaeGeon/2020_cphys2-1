@@ -1,6 +1,5 @@
 def multi(dan):    
     print(dan,'단 :', [dan*i for i in range(1,10)])
-# 구구단을 출력해야함(-2)
     
 def OorE(number):
     if(number%2 == 1):

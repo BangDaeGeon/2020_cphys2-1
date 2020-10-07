@@ -5,4 +5,3 @@ for A in range(1, 10):
     for B in range(1, 10):
         print(A*B, end=" ")
     print('')
-# 구구단을 출력해야 함(-2)
