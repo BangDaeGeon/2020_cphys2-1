@@ -1,10 +1,13 @@
-value = input()
-
+num = input()
+num = int(num)
 print('-'*50)
-print('(',value,'단',')')
-for i in range(1,10):
-	print(int(value)*i)
-# 함수 형태로 작성되야 하는 것이 과제였음(-1)
+print('(',num,'단',')')
+def muti_table(num):
+	for i in range(1,10):
+		result = num*i
+		print(num,'x',i,'=',result)
+
+muti_table(num)
     
 num = input()
 
