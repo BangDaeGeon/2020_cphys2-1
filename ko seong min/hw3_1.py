@@ -21,4 +21,4 @@ plt.scatter(x,y)
 
 plt.show()
 
-# 결과x 보고서x (-5)
+# (-3)

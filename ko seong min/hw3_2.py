@@ -17,5 +17,3 @@ x=[i[0] for i in x]
 plt.scatter(x,y)
 
 plt.show()
-
-# hw3_1 과 마찬가지 (-5)
